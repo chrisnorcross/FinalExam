@@ -21,6 +21,6 @@ public abstract class ClassA {
 		this.a = a;
 	}
 	
-	
+
 
 }
